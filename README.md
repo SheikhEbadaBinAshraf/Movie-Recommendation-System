@@ -1,3 +1,7 @@
+## Failed to upload similarity.pkl file due to file size
+#### here google drive link
+https://drive.google.com/file/d/1sC7ksu9OXCH7M0_zMl05wSq4v7M6Xo59/view?usp=sharing
+
 # Movie Recommendation System  
   
 
